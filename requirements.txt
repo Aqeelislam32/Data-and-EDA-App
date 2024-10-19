@@ -7,4 +7,4 @@ seaborn==0.12.2
 streamlit==1.31.1 
 openpyxl==3.1.2
 pkg_resources
---upgrade pip 
+ 
