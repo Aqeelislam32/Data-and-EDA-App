@@ -1,10 +1,10 @@
-streamlit==1.31.1
-pandas==1.5.3
+streamlit
+pandas
 seaborn
 matplotlib
 altair
 ydata-profiling
 openpyxl
-numba==0.56.0
-llvmlite==0.39.0
+numba
+llvmlite
  
