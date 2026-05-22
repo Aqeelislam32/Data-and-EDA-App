@@ -1,9 +1,9 @@
 streamlit
-pandas
+pandas==2.2.3
 seaborn
 matplotlib
 altair
-ydata-profiling
+ydata-profiling==4.16.1
 openpyxl
-setuptools>=70.0.0
+setuptools==75.8.0
 wheel
