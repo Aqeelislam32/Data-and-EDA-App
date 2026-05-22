@@ -4,8 +4,5 @@ seaborn
 matplotlib
 altair
 ydata-profiling
-setuptools
 openpyxl
-numba
-llvmlite
- 
+setuptools
