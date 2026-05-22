@@ -5,4 +5,5 @@ matplotlib
 altair
 ydata-profiling
 openpyxl
-setuptools
+setuptools>=70.0.0
+wheel
